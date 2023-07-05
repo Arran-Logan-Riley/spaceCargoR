@@ -1,0 +1,17 @@
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\bin\Debug\net7.0\spaceCargoR.exe
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\bin\Debug\net7.0\spaceCargoR.deps.json
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\bin\Debug\net7.0\spaceCargoR.runtimeconfig.json
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\bin\Debug\net7.0\spaceCargoR.dll
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\bin\Debug\net7.0\spaceCargoR.pdb
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.csproj.AssemblyReference.cache
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.AssemblyInfoInputs.cache
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.AssemblyInfo.cs
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.csproj.CoreCompileInputs.cache
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.dll
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\refint\spaceCargoR.dll
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.pdb
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.genruntimeconfig.cache
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\ref\spaceCargoR.dll
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\finnn\Desktop\SpaceCargoR\spaceCargoR\obj\Debug\net7.0\spaceCargoR.csproj.CopyComplete
